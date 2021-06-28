@@ -1,3 +1,5 @@
 
 *.src
 *.rhl
+*.3dmbak
+*.db
